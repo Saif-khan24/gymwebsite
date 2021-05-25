@@ -1,2 +1,2 @@
 # gymwebsite
-This is for learning git. It's a gym website project made using HTML and CSS.
+It's a front-end of a gym website made using HTML and CSS.
